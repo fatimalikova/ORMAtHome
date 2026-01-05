@@ -128,3 +128,4 @@ C:\Users\fmeli\OneDrive\Desktop\ORMConnection\OrmConnection\OrmConnection\obj\De
 C:\Users\fmeli\OneDrive\Desktop\ORMConnection\OrmConnection\OrmConnection\obj\Debug\net8.0\OrmConnection.pdb
 C:\Users\fmeli\OneDrive\Desktop\ORMConnection\OrmConnection\OrmConnection\obj\Debug\net8.0\OrmConnection.genruntimeconfig.cache
 C:\Users\fmeli\OneDrive\Desktop\ORMConnection\OrmConnection\OrmConnection\obj\Debug\net8.0\ref\OrmConnection.dll
+C:\Users\fmeli\OneDrive\Desktop\ORMConnection\OrmConnection\OrmConnection\obj\Debug\net8.0\OrmConnection.sourcelink.json

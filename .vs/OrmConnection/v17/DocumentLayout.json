@@ -62,8 +62,7 @@
               "RelativeToolTip": "OrmConnection\\Models\\SubjectStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T19:11:04.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T19:11:04.067Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "OrmConnection\\Models\\StudentDetails.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:58:06.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T18:58:06.348Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "OrmConnection\\Models\\Subjects.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:42:56.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T18:42:56.827Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "OrmConnection\\Models\\Group.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:42:28.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T18:42:28.744Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "RelativeToolTip": "OrmConnection\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:27:49.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T18:27:49.751Z"
             },
             {
               "$type": "Document",
@@ -125,7 +120,7 @@
               "RelativeDocumentMoniker": "OrmConnection\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\ORMConnection\\OrmConnection\\OrmConnection\\Models\\Student.cs",
               "RelativeToolTip": "OrmConnection\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T18:00:38.895Z",
               "EditorCaption": ""
@@ -140,8 +135,7 @@
               "RelativeToolTip": "OrmConnection\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:08:15.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T18:08:15.872Z"
             },
             {
               "$type": "Document",
@@ -153,21 +147,19 @@
               "RelativeToolTip": "OrmConnection\\Data\\Migrations\\20260105182440_mig_1.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:27:41.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T18:27:41.548Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "OrmConnection",
+              "Title": "OrmConnection.csproj",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\ORMConnection\\OrmConnection\\OrmConnection\\OrmConnection.csproj",
               "RelativeDocumentMoniker": "OrmConnection\\OrmConnection.csproj",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\ORMConnection\\OrmConnection\\OrmConnection\\OrmConnection.csproj",
               "RelativeToolTip": "OrmConnection\\OrmConnection.csproj",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-05T18:27:21.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T18:27:21.255Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "OrmConnection\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T17:56:51.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T17:56:51.033Z"
             }
           ]
         }

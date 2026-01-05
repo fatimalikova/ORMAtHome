@@ -19,7 +19,7 @@ namespace OrmConnection.Models
         public string Description { get; set; }
         public int Age { get; set; }
         public int? GroupId { get; set; }
-        public Group Group { get; set; }
+        public Group? Group { get; set; }
         public StudentDetails StudentDetails { get; set; }
         public List<SubjectStudent> SubjectStudent { get; set; } 
         public override string ToString()
