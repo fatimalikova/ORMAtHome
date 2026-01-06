@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|solutionrelative:ormconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\models\\subjectstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|solutionrelative:ormconnection\\models\\subjectstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|solutionrelative:ormconnection\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|solutionrelative:ormconnection\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|solutionrelative:ormconnection\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\models\\subjectstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|solutionrelative:ormconnection\\models\\subjectstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|solutionrelative:ormconnection\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|solutionrelative:ormconnection\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|solutionrelative:ormconnection\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{868AC37D-9D4A-45D5-818B-59CFCF43BA20}|OrmConnection\\OrmConnection.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\ormconnection\\ormconnection\\ormconnection\\data\\migrations\\20260105182440_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SubjectStudent.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\ORMConnection\\OrmConnection\\OrmConnection\\Models\\SubjectStudent.cs",
               "RelativeDocumentMoniker": "OrmConnection\\Models\\SubjectStudent.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "StudentDetails.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\ORMConnection\\OrmConnection\\OrmConnection\\Models\\StudentDetails.cs",
               "RelativeDocumentMoniker": "OrmConnection\\Models\\StudentDetails.cs",
@@ -75,7 +75,8 @@
               "RelativeToolTip": "OrmConnection\\Models\\StudentDetails.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:58:06.348Z"
+              "WhenOpened": "2026-01-05T18:58:06.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\ORMConnection\\OrmConnection\\OrmConnection\\Models\\Group.cs",
               "RelativeDocumentMoniker": "OrmConnection\\Models\\Group.cs",
@@ -100,12 +101,11 @@
               "RelativeToolTip": "OrmConnection\\Models\\Group.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:42:28.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T18:42:28.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\ORMConnection\\OrmConnection\\OrmConnection\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "OrmConnection\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -113,11 +113,12 @@
               "RelativeToolTip": "OrmConnection\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:27:49.751Z"
+              "WhenOpened": "2026-01-05T18:27:49.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\ORMConnection\\OrmConnection\\OrmConnection\\Models\\Student.cs",
               "RelativeDocumentMoniker": "OrmConnection\\Models\\Student.cs",
@@ -125,18 +126,17 @@
               "RelativeToolTip": "OrmConnection\\Models\\Student.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T18:00:38.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T18:00:38.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\ORMConnection\\OrmConnection\\OrmConnection\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "OrmConnection\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\ORMConnection\\OrmConnection\\OrmConnection\\Data\\AppDbContext.cs",
               "RelativeToolTip": "OrmConnection\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T18:08:15.872Z",
               "EditorCaption": ""
@@ -149,7 +149,7 @@
               "RelativeDocumentMoniker": "OrmConnection\\Program.cs",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\ORMConnection\\OrmConnection\\OrmConnection\\Program.cs",
               "RelativeToolTip": "OrmConnection\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T17:56:51.033Z",
               "EditorCaption": ""

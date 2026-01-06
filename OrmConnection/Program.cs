@@ -20,15 +20,15 @@ namespace OrmConnection
             //Console.WriteLine("Student added successfully.");
 
             //Bulk insert
-            //Student[] students = new Student[]
-            //{
-            //    new Student() { Name = "Jane Smith", Description = "Another student", Age = 22 },
-            //    new Student() { Name = "Mike Johnson", Description = "Yet another student", Age = 23 },
-            //    new Student() { Name = "Emily Davis", Description = "More students", Age = 20 }
-            //};
-            //context.Students.AddRange(students);
-            //context.SaveChanges();
-            //Console.WriteLine("Bulk students added successfully.");
+            Student[] students = new Student[]
+            {
+                new Student() { Name = "Jane Smith", Description = "Another student", Age = 22 },
+                new Student() { Name = "Mike Johnson", Description = "Yet another student", Age = 23 },
+                new Student() { Name = "Emily Davis", Description = "More students", Age = 20 }
+            };
+            context.Students.AddRange(students);
+            context.SaveChanges();
+            Console.WriteLine("Bulk students added successfully.");
 
             Group group = new Group()
             {
