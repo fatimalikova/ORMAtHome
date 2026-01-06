@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GuGDAUKJaog=",
+  "dgSpecHash": "4cRPZQZS6Kk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\ORMConnection\\OrmConnection\\OrmConnection\\OrmConnection.csproj",
+  "projectFilePath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\ORMConnection\\OrmConnection\\OrmConnection\\OrmConnection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fmeli\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\fmeli\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
